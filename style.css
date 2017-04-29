@@ -1,0 +1,38 @@
+html, body{
+  font-size: 120%;
+}
+
+#sky{
+  text-transform: capitalize;
+}
+
+section, #icon {
+  display: inline-block;
+  border: 2px solid #ffffff;
+  color: #7F3320;
+  padding: 2% 1% 2% 1%;
+  margin: 0 auto 0.7% auto; 
+  background-color: #ffffff;
+  border-radius: 0.3em;
+  box-shadow: .2em .2em .2em #444;
+  opacity: 0.9;
+}
+ #icon {
+   box-shadow: .1em .1em .6em .3em #444;
+   margin-bottom: 10px;
+   background-color: white;
+   opacity: 1;
+}
+section {
+  margin-top: 10%;
+  opacity: 0.7;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+  text-decoration: none;
+  
+}
+
